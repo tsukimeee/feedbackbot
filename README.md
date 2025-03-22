@@ -9,4 +9,4 @@ Aiogram, Aiosqlite
 
 ____
 
-❤️ by xanthi.
+❤️ by xanthi ❤️
